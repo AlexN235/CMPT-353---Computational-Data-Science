@@ -1,0 +1,2 @@
+.git
+sensor-data-project/.ipynb_checkpoints
